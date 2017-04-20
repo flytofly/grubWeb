@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="grubWeb"
+  id="myeclipse.1447742521694"
+  context-root="/grubWeb"
+  j2ee-spec="5.0"
+  archive="grubWeb.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
